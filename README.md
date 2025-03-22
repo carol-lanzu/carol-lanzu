@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! It's Carol Lanzu here! 👋
 
 <!--
 **carol-lanzu/carol-lanzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
