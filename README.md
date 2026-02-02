@@ -58,4 +58,6 @@ My name is Caroline Lanzuolo and I'm a computer engeneering student, from Federa
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=carol-lanzu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ###
