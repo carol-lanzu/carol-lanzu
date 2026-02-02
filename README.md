@@ -1,8 +1,11 @@
-<h2 align="left">Hi there👋! My name is Caroline Lanzuolo and I'm a computer engeneering student, from Federal University of Santa Catarina - Brasil </h2>
+<h2 align="left">Hi there👋! It's Carol Lanzu here! </h2>
+My name is Caroline Lanzuolo and I'm a computer engeneering student, from Federal University of Santa Catarina - Brasil
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+<img width="408" height="200" alt="image" src="https://github.com/user-attachments/assets/83a85a6d-63a6-4ec2-b695-5d474db2e583" align="center" />
+
 
 ###
 
