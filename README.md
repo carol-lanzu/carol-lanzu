@@ -9,7 +9,7 @@ My name is Caroline Lanzuolo and I'm a computer engeneering student, from Federa
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -35,7 +35,7 @@ My name is Caroline Lanzuolo and I'm a computer engeneering student, from Federa
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://discord.com/users/1013183185317802024" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
