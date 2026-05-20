@@ -1,7 +1,7 @@
 <h2 align="left">Hi there👋! It's Carol Lanzu here! </h2>
 My name is Caroline Lanzuolo and I'm a computer engeneering student, from Federal University of Santa Catarina - Brasil.   
 
-🔎🐞 I'm currently QA in Bridge Laboratory (national EHR, electronic health record). 
+🔎🐞 I'm currently QA in Bridge Laboratory ESUS Project (national EHR, electronic health record). 
 
 ###
 
